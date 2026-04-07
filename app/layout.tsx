@@ -22,6 +22,7 @@ export const metadata: Metadata = {
 };
 
 const navigationData = [
+  { title: "Home", href: "/" },
   { title: "About", href: "/about" },
   { title: "Services", href: "/services" },
   { title: "Case Studies", href: "/case-studies" },

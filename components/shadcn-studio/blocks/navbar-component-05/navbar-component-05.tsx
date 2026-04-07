@@ -21,7 +21,7 @@ const Navbar = ({ navigationData }: { navigationData: NavigationItem }) => {
   return (
     <header className='bg-background sticky top-0 z-50'>
       <div className='mx-auto flex max-w-7xl items-center justify-between gap-8 px-4 py-7 sm:px-6'>
-        <a href='#'>
+        <a href='/'>
           <Logo className='gap-3' />
         </a>
 
